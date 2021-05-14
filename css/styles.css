@@ -303,10 +303,10 @@ p {
     line-height: 25px;
 }
 a {
-    color: #f56d3e;
+    color: #F1B010;
 }
 a:hover, a:focus {
-    color: #f56d3e;
+    color: #F1B010;
     text-decoration: none;
 }
 .texture-overlay {
@@ -328,11 +328,11 @@ a:hover, a:focus {
     padding: 20px 50px;
     border-radius: 3px;
     background-color: #fff;
-    color: #f56d3e;
+    color: #F1B010;
     font-size: 16px;
 }
 .use-btn:hover, .use-btn:focus {
-    background-color: #f56d3e;
+    background-color: #F1B010;
     color: #fff;
     text-decoration: none;
 }
@@ -345,8 +345,8 @@ a:hover, a:focus {
     font-size: 16px;
 }
 .learn-btn:hover, .download-btn:hover, .learn-btn:focus, .download-btn:focus {
-    border-color: #f56d3e;
-    color: #f56d3e;
+    border-color: #F1B010;
+    color: #F1B010;
     text-decoration: none;
 }
 .read-more-btn {
@@ -588,15 +588,16 @@ section.video a:hover i, section.video a:focus i {
     margin-right: 25px;
     width: 90px;
     height: 90px;
-    border: solid 2px #f56d3e;
+    border: solid 2px #F1B010;
     border-radius: 50%;
     vertical-align: top;
     text-align: center;
     font-size: 25px;
     line-height: 90px;
+    color: #F1B010
 }
 .feature-icon i {
-    color: #f56d3e
+    color: #F1B010
 }
 
 blockquote {
@@ -866,8 +867,8 @@ footer li:last-child {
     transition: all 300ms ease-in-out;
 }
 .overlay ul li a:hover, .overlay ul li a:focus {
-    border-color: #f56d3e;
-    color: #f56d3e;
+    border-color: #F1B010;
+    color: #F1B010;
 }
 
 
